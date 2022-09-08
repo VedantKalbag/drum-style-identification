@@ -17,3 +17,6 @@ Experiments with feature selection were conducted using mutual information and v
 - Signal Power
 
 The selected features were used along with an SVM and Random Forest Classifier. The best results were obtained with a RF classifier and achieved a 70% f1-score
+
+Further information can be found in this presentation:
+https://docs.google.com/presentation/d/1bN3nxbKmyQnnwesbFq6uc8viMM81O7geh7UHv1RIEmo/edit?usp=sharing
